@@ -1,4 +1,3 @@
-```markdown
 # 📖 부록: 장별 주요 프롬프트 및 터미널 명령어 모음집
 
 본 저장소는 **[압도적 스킬로 바로 쓰는 클로드 코워크×AI 자동화]**의 독자 여러분을 위해 제공되는 부록 프롬프트 및 터미널 명령어 모음입니다.  
@@ -283,5 +282,4 @@ winget install -e --id Gyan.FFmpeg
 #### 💻 오류 메시지 확인 (macOS)
 ```bash
 ~/.local/bin/uv run --directory "<복사한 mcp_server 경로>" gemini-proxy-mcp
-```
 ```
